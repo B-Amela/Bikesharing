@@ -27,6 +27,6 @@ The largest consumer utilizing the bikesharing service are male subscribers. The
 #### Additional visualizations that should be performed
  - Age of consumers broken down between the times of usage
  - Most common trip locations between start and finish. Also needs to show the map outline of route. 
- - 
+
 
 
